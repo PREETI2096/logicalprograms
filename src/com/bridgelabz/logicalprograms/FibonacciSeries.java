@@ -1,7 +1,5 @@
 package com.bridgelabz.logicalprograms;
-
 import java.util.Scanner;
-
 public class FibonacciSeries {
 
 	public static void main(String[] args) {
@@ -18,7 +16,5 @@ public class FibonacciSeries {
 			firstTerm = secondTerm;
 			secondTerm = nextTerm;
 		}
-
 	}
-
 }

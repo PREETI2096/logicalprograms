@@ -6,5 +6,4 @@ public class CouponNumber {
 		// TODO Auto-generated method stub
 
 	}
-
 }
